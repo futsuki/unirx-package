@@ -1,6 +1,6 @@
 # unirx-package
 
-UniRx 7.1.0
+[UniRx](https://github.com/neuecc/UniRx) 7.1.0
 
 1. `Window/Package Manager`
 2. `Add package from git URL...`
