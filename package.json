@@ -1,0 +1,10 @@
+{
+    "name": "unirx",
+    "displayName": "UniRx",
+    "version": "7.1.0",
+    "unity": "2019.2",
+    "description": "Reactive Extensions for Unity",
+    "keywords": ["reactive", "observable"],
+    "dependencies": {
+    }
+}
