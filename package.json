@@ -10,6 +10,6 @@
   ],
   "type": "library",
   "dependencies": {
-    "com.unity.ugui": ""
+    "com.unity.ugui": "1.0.0"
   }
 }
